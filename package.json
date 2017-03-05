@@ -1,0 +1,31 @@
+{
+  "name": "gulp-futurejs-compile",
+  "version": "0.0.1",
+  "description": "Gulp plugin for compiling FutureScript",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: we don't have tests yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristianmandrup/gulp-futurejs-compile.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "marko",
+    "compile"
+  ],
+  "author": {
+    "name": "Kristian Mandrup",
+    "email": "kmandrup@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "futurescript": ">=2.0.0",
+    "through2": "^2.0.0"
+  }
+}
