@@ -1,5 +1,7 @@
 # gulp-futurejs-compile
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/gulp-futurejs-compile.svg)](https://greenkeeper.io/)
+
 [![npm](https://nodei.co/npm/gulp-futurejs-compile.svg?downloads=true)](https://nodei.co/npm/gulp-futurejs-compile/)
 
 > Compile FutureScript as part of your Gulp build process.
